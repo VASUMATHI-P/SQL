@@ -1,0 +1,17 @@
+id,name,department,salary,department_avg_salary
+3,Nami,Finance,92000,92333.3333
+8,Franky,Finance,88000,92333.3333
+13,"Boa Hancock",Finance,97000,92333.3333
+2,"Roronoa Zoro",HR,58000,59750.0000
+7,"Nico Robin",HR,60000,59750.0000
+12,"Trafalgar Law",HR,59000,59750.0000
+16,"Bon Clay",HR,62000,59750.0000
+1,"Monkey D. Luffy",IT,85000,84666.6667
+6,"Tony Tony Chopper",IT,78000,84666.6667
+11,"Portgas D. Ace",IT,91000,84666.6667
+4,Usopp,Marketing,72000,72666.6667
+9,Brook,Marketing,71000,72666.6667
+14,Shanks,Marketing,75000,72666.6667
+5,Sanji,Sales,65000,65666.6667
+10,Jinbe,Sales,68000,65666.6667
+15,"Dracule Mihawk",Sales,64000,65666.6667
