@@ -1,0 +1,6 @@
+customer_name,order_id,product_name,order_date,order_amount
+"Tony Stark",1,Pizza,2025-03-01,499.00
+"Steve Rogers",2,"Cheese Burger",2025-03-02,249.00
+"Thor Odinson",3,"Chicken Sandwich",2025-03-03,199.00
+"Bruce Banner",4,"Chicken Pizza",2025-03-04,599.00
+"Natasha Romanoff",5,"Veggie Burger",2025-03-05,229.00
