@@ -1,0 +1,4 @@
+id,name,department,avg_salary,salary
+2,Bob,IT,87500.000000,90000.00
+5,Eve,HR,62500.000000,65000.00
+7,Grace,Finance,72500.000000,75000.00
