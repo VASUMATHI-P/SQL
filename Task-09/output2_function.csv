@@ -1,0 +1,19 @@
+id,name,department,salary,calculate_bonus(salary)
+3,Nami,Finance,92000,4600.00
+8,Franky,Finance,88000,4400.00
+13,"Boa Hancock",Finance,97000,4850.00
+2,"Roronoa Zoro",HR,58000,5800.00
+7,"Nico Robin",HR,60000,4200.00
+12,"Trafalgar Law",HR,59000,5900.00
+16,"Bon Clay",HR,62000,4340.00
+1,"Monkey D. Luffy",IT,85000,4250.00
+6,"Tony Tony Chopper",IT,78000,3900.00
+11,"Portgas D. Ace",IT,91000,4550.00
+17,Vasu,IT,78000,3900.00
+18,Mathi,IT,75000,3750.00
+4,Usopp,Marketing,72000,5040.00
+9,Brook,Marketing,71000,4970.00
+14,Shanks,Marketing,75000,3750.00
+5,Sanji,Sales,65000,4550.00
+10,Jinbe,Sales,68000,4760.00
+15,"Dracule Mihawk",Sales,64000,4480.00
