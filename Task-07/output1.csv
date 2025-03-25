@@ -1,0 +1,19 @@
+id,name,department,salary,row_num,rank_num,dense_rank_num,prev_salary,next_salary
+13,"Boa Hancock",Finance,97000,1,1,1,NULL,92000
+3,Nami,Finance,92000,2,2,2,97000,88000
+8,Franky,Finance,88000,3,3,3,92000,NULL
+16,"Bon Clay",HR,62000,1,1,1,NULL,60000
+7,"Nico Robin",HR,60000,2,2,2,62000,59000
+12,"Trafalgar Law",HR,59000,3,3,3,60000,58000
+2,"Roronoa Zoro",HR,58000,4,4,4,59000,NULL
+11,"Portgas D. Ace",IT,91000,1,1,1,NULL,85000
+1,"Monkey D. Luffy",IT,85000,2,2,2,91000,78000
+6,"Tony Tony Chopper",IT,78000,3,3,3,85000,78000
+17,Vasu,IT,78000,4,3,3,78000,75000
+18,Mathi,IT,75000,5,5,4,78000,NULL
+14,Shanks,Marketing,75000,1,1,1,NULL,72000
+4,Usopp,Marketing,72000,2,2,2,75000,71000
+9,Brook,Marketing,71000,3,3,3,72000,NULL
+10,Jinbe,Sales,68000,1,1,1,NULL,65000
+5,Sanji,Sales,65000,2,2,2,68000,64000
+15,"Dracule Mihawk",Sales,64000,3,3,3,65000,NULL
